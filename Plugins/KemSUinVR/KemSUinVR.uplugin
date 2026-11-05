@@ -1,0 +1,40 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "0.1.0",
+    "FriendlyName": "KemSUinVR",
+    "Description": "VR classroom prototype plugin for room-code sessions, voice, teacher tools, and classroom UI.",
+    "Category": "Virtual Reality",
+    "CreatedBy": "TigarSigar",
+    "CreatedByURL": "https://github.com/vacek225/ReNodeToCode-UE-5.7",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": false,
+    "Installed": false,
+    "Plugins": [
+        {
+            "Name": "OnlineSubsystemNull",
+            "Enabled": true
+        },
+        {
+            "Name": "WebBrowserWidget",
+            "Enabled": true
+        },
+        {
+            "Name": "AudioCapture",
+            "Enabled": true
+        },
+        {
+            "Name": "EnhancedInput",
+            "Enabled": true
+        }
+    ],
+    "Modules": [
+        {
+            "Name": "KemSUinVR",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}

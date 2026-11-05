@@ -1,0 +1,62 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "",
+  "Description": "",
+  "Plugins": [
+    {
+      "Name": "OpenXR",
+      "Enabled": true
+    },
+    {
+      "Name": "OpenXREyeTracker",
+      "Enabled": true
+    },
+    {
+      "Name": "OpenXRHandTracking",
+      "Enabled": true
+    },
+    {
+      "Name": "PythonScriptPlugin",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    },
+    {
+      "Name": "OnlineSubsystemNull",
+      "Enabled": true
+    },
+    {
+      "Name": "WebBrowserWidget",
+      "Enabled": true
+    },
+    {
+      "Name": "AudioCapture",
+      "Enabled": true
+    },
+    {
+      "Name": "KemSUinVR",
+      "Enabled": true
+    },
+    {
+      "Name": "HDRIBackdrop",
+      "Enabled": true
+    },
+    {
+      "Name": "NodeToCode",
+      "Enabled": false
+    }
+  ],
+  "TargetPlatforms": [
+    "Windows"
+  ],
+  "Modules": [
+    {
+      "Name": "KUB_KiberUniversitetBudushego",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
