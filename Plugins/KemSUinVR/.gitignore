@@ -14,10 +14,6 @@ Saved/
 DerivedDataCache/
 
 Binaries/
-!Binaries/
-!Binaries/Win64/
-!Binaries/Win64/UnrealEditor-KemSUinVR.dll
-!Binaries/Win64/UnrealEditor.modules
 
 Build/
 !Build/*/
